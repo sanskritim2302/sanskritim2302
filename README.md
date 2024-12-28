@@ -13,10 +13,11 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🎓 &nbsp; Studying Computer Engineering at TCET,India.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - 🌱 &nbsp; Learning More About Cloud Computing.
-  - 🤔 &nbsp; Check out my latest project : [Visit Project](https://jbrt1o.vercel.app/).
+- 🎓 &nbsp; **Studying Computer Engineering** at TCET, India.
+- 💼 &nbsp; **Currently working on Full Stack Development projects** to build dynamic web applications.
+- 🌱 &nbsp; **Learning more about Cloud Computing**, focusing on cloud services, deployment, and security.
+- 🤔 &nbsp; **Check out my latest project**: [Visit Project](https://jbrt1o.vercel.app/).
+
 </div> 
 
 ## Connect with me 
