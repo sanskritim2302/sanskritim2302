@@ -2,7 +2,7 @@
 <p align="left"> <img src="" /> </p>
 
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Sanskriti Mishra</h1>
+<h1 align="center">Hi there!  I'm Sanskriti Mishra<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"></h1>
 <h3 align="center">A Passionate Web developer | Software Engineer Enthusiast</h3>
 
 <br/>
@@ -10,14 +10,14 @@
 <img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
-- 🔭 I’m currently working as **
+<div align="left"> 
+  <h3> 👨🏻‍💻 About Me </h3>
 
-- 🌱 I’m currently learning ****
-
-- 💬 Ask me about **
-
-- ⚡ About Me: I'm a **
-- 📍 From **India**
+  - 🎓 &nbsp; Studying Computer Engineering at TCET,India.
+  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
+  - 🌱 &nbsp; Learning More About Cloud Computing.
+  - 🤔 &nbsp; Check out my latest project : [Visit Project](https://jbrt1o.vercel.app/).
+</div> 
 
 ## Connect with me 
 
@@ -51,7 +51,6 @@
 <details>
 <summary>Databases</summary> <br>
   
-![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
