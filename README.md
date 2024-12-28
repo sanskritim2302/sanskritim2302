@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Sanskriti Mishra</h1>
-<h3 align="center">A Passionate Web developer</h3>
+<h3 align="center">A Passionate Web developer | Software Engineer Enthusiast</h3>
 
 <br/>
 
