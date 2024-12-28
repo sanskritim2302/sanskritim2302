@@ -21,6 +21,10 @@
 
 ## Connect with me 
 
+- [LinkedIn](https://www.linkedin.com/in/sanskriti-mishra-1871b1252/)
+- [LeetCode](https://leetcode.com/u/sanskritim02/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/sanskritbry2/)
+- [CodeChef](https://www.codechef.com/users/sanskritim02)
 
 
 
@@ -105,18 +109,3 @@
 
 
 
-
-<!--
-**sanskritim2302/sanskritim2302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
