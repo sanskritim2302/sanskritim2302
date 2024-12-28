@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskritim2302&label=Profile%20views&color=0e75b6&style=flat" alt="sanskritim2302" /> </p>
-<p align="left"> <img src="" /> </p>
 
 
-<h1 align="center">Hi there!  I'm Sanskriti Mishra<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"></h1>
+
+<h1 align="center">Hi there!  I'm Sanskriti Mishra <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"></h1>
 <h3 align="center">A Passionate Web developer | Software Engineer Enthusiast</h3>
 
 <br/>
@@ -20,14 +20,16 @@
 
 </div> 
 
+## 📬 Reach Out
+Feel free to connect with me or drop me a message!
+
 ## Connect with me 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sanskriti-mishra-1871b1252/)](https://www.linkedin.com/in/sanskriti-mishra-1871b1252/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/u/sanskritim02/)](https://leetcode.com/u/sanskritim02/)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2E8B57?style=for-the-badge&logo=GeeksforGeeks&logoColor=white&link=https://www.geeksforgeeks.org/user/sanskritbry2/)](https://www.geeksforgeeks.org/user/sanskritbry2/)
 [![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/sanskritim02)](https://www.codechef.com/users/sanskritim02)
-
-
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/sanskritim2302)](https://www.hackerrank.com/profile/sanskritim2302)
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
