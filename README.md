@@ -1,4 +1,4 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskritim2302&label=Profile%20views&color=0e75b6&style=flat" alt="sanskritim2302" /> </p>
 <p align="left"> <img src="" /> </p>
 
 
@@ -21,10 +21,11 @@
 
 ## Connect with me 
 
-- [LinkedIn](https://www.linkedin.com/in/sanskriti-mishra-1871b1252/)
-- [LeetCode](https://leetcode.com/u/sanskritim02/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/sanskritbry2/)
-- [CodeChef](https://www.codechef.com/users/sanskritim02)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sanskriti-mishra-1871b1252/)](https://www.linkedin.com/in/sanskriti-mishra-1871b1252/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/u/sanskritim02/)](https://leetcode.com/u/sanskritim02/)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2E8B57?style=for-the-badge&logo=GeeksforGeeks&logoColor=white&link=https://www.geeksforgeeks.org/user/sanskritbry2/)](https://www.geeksforgeeks.org/user/sanskritbry2/)
+[![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/sanskritim02)](https://www.codechef.com/users/sanskritim02)
+
 
 
 
