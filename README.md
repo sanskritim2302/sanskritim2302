@@ -16,7 +16,7 @@
 - 🎓 &nbsp; **Studying Computer Engineering** at TCET, India.
 - 💼 &nbsp; **Currently working on Full Stack Development projects** to build dynamic web applications.
 - 🌱 &nbsp; **Learning more about Cloud Computing**, focusing on cloud services, deployment, and security.
-- 🤔 &nbsp; **Check out my latest project**: [Visit Project](https://jbrt1o.vercel.app/).
+- 🤔 &nbsp; **Check out my latest project**: [Visit Project](https://jaibalajirubber.com).
 
 </div> 
 
